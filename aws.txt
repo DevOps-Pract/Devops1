@@ -1,0 +1,4 @@
+today i revision og git and github
+here i create file and
+merge file
+push data and fetch
