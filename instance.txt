@@ -1,1 +1,6 @@
 welcome data
+git fetch origin main -> it is  fetch command to write in git bash 
+                      cat studio.sh
+                      git merge
+                      cat studio.sh [ now it will show all data in git bash from GitHub)
+
